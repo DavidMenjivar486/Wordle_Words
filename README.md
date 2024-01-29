@@ -3,7 +3,7 @@
 
 In this repository you will find a Wordle Words Game clone project, developed with React.js using Vite.js as a template and made all styles with Tailwind.css. All present code is only for Front-End consuming data from an external API.
 
-#Installation 
+# Installation 
 Please check the official React+Vite installation guide for all requirements for this project before you start. https://vitejs.dev/guide/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
